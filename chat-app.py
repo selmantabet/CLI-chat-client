@@ -1,8 +1,7 @@
 
 #    15-112: Principles of Programming and Computer Science
 #    HW07 Programming: Implementing a Chat Client
-#    Name      : Selmane Tabet
-#    AndrewID  : stabet
+#    Name      : Selman Tabet
 #
 #    File Created: October 19th, 2017.
 #    Version 1.0, Oct. 24th, 2017.
